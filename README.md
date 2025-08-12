@@ -22,7 +22,7 @@ Uma ferramenta de linha de comando feita em Python que busca taxas de câmbio at
 
 ## 🚀 Como Usar (Versão Executável para Windows)
 
-1. Vá para a **[Página de Releases](LINK_DA_SUA_RELEASE_AQUI)**.
+1. Vá para a **[Página de Releases](https://github.com/allymonteiro/conversordemoedas/releases)**.
 2. Baixe o arquivo `conversor.exe`.
 3. Crie o arquivo `config.py` (como ensinado acima) e coloque-o na mesma pasta que o `.exe`.
 4. Dê dois cliques para executar!
